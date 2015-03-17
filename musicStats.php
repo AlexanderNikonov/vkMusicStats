@@ -27,8 +27,8 @@ class VkMusicStats {
     protected $mysql;
     protected $url;
     protected $showLog = TRUE;
-    protected $accessToken = 'f577c6e8d3a2501d3fa39c11e7533d885aca05092d9bbe7866cdbf3a7a26ba140e4a52ecce9613ad9924'; //Тут нужно вписать токен, полученный от VK
-    protected $ruCaptchaApiKey = '38a064dd87b341f32cd859b44c4ef2'; // https://rucaptcha.com
+    protected $accessToken = 'f577c6e8d3a2501d3fa39c11e7533d885aca05092d9bbe7866cdbf3a7a26ba140e4a52ecce9613ad'; //Тут нужно вписать токен, полученный от VK
+    protected $ruCaptchaApiKey = '38a064dd87b341f32cd859b44c4'; // https://rucaptcha.com
 
     /**
      * 
